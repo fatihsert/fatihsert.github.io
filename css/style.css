@@ -8517,7 +8517,7 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 
     a{
-      color:#999999;
+      color: rgba(0, 0, 0, 0.8);
     }
 i {
     margin: 10px;
@@ -8526,5 +8526,6 @@ i {
 
 i:hover
 {
-    color:#2f3030;
+    color:#000000;
+ font-weight:900  
 }
